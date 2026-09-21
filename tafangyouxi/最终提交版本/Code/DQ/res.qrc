@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/7.png</file>
+        <file>res/8.png</file>
+        <file>res/9.png</file>
+        <file>res/10.png</file>
+        <file>res/11.png</file>
+        <file>res/12.png</file>
+        <file>res/13.png</file>
+        <file>res/14.png</file>
+        <file>res/d.png</file>
+        <file>res/e.png</file>
+        <file>res/f.png</file>
+        <file>res/g.png</file>
+        <file>res/h.png</file>
+        <file>res/i.png</file>
+        <file>res/j.png</file>
+        <file>res/k.png</file>
+        <file>res/l.png</file>
+        <file>res/m.png</file>
+        <file>res/n.png</file>
+        <file>res/AAA.jpg</file>
+        <file>res/o.png</file>
+        <file>res/p.png</file>
+        <file>res/b.png</file>
+        <file>res/a.jpg</file>
+        <file>res/c.png</file>
+    </qresource>
+</RCC>
